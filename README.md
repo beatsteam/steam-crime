@@ -11,11 +11,7 @@ Dedicated to projects that require Steam officials to safeguard the legitimate r
 
 <div align="center">
 
-[![Open in Dev Container](https://img.shields.io/static/v1?label=Dev%20Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/github/labring/sealos)
-
 <br />
-
-[![discord](https://theme.zdassets.com/theme_assets/678183/cc59daa07820943e943c2fc283b9079d7003ff76.svg)](https://discord.gg/qzBmGGZGk7)
 
 </div>
 
